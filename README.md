@@ -1,5 +1,7 @@
-### Hi there 👋
+## Welcome to REML-Group!
 
+REML-group is a research group focusing on REliable Multimodality Learning.
+If you are interested in our lab, you can learn more via the following ways.
 <!--
 **reml-group/reml-group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
